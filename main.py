@@ -4,7 +4,6 @@ import random
 import datetime
 
 import requests
-import data_pull
 from twython import Twython
 import config
 
